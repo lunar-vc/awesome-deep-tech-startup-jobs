@@ -8,7 +8,7 @@ To keep the list fresh every jobposting older than 90 days will be automatically
 ## Jobs
 |Position|Company|Location|Start Date|Tags|JD|Link|
 |-|-|-|-|-|-|-|
-|ML Engineer|Lunar Ventures |Berlin, remote |immediate |#ml #ml-ops #keras|[Job Description](jobs/ml/example-jd)| www.lunar.vc|
+|ML Engineer|[Lunar Ventures](www.lunar.vc) |Berlin, remote |immediate |#ml #ml-ops #keras|[Job Description](jobs/ml/example-jd)|
 
 ## Contribution guide
 Please to create an issue in case of broken link, expired job or typo. Feel free to create a Pull Request in case you want to add an interesting job (add JD in correct folder and update list in the readme with the according job), but before that verify if isn't already a part of the existing list and if it fullfills the requirements.
