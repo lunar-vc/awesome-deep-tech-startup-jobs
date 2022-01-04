@@ -7,7 +7,7 @@ To keep the list fresh every jobposting older than 90 days will be automatically
 
 ## Jobs
 |Position|Company|Start Date|Tags|JD|Link|
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|
 |ML Engineer|Lunar Ventures |immediate| #ml #ml-ops #keras|[Job Description](jobs/ml/example-jd)| www.lunar.vc|
 
 ## Contribution guide
