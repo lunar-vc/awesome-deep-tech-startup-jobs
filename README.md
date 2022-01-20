@@ -1,4 +1,4 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CONTRIBUTE.md) [![Tweet](https://img.shields.io/twitter/url?url=https://github.com/lunar-vc/awesome-deep-tech-startup-jobs)](https://twitter.com/share?text=%F0%9F%91%BD%Awesome%20%E2%80%A2%20Deep%20Tech%20API%20Startup%20Jobs%20-%20Work%20in%20the%20next%20big%20thing;%20updated%20regularly%20-%20star%20and%20watch.&url=https://github.com/lunar-vc/awesome-deep-tech-startup-jobs)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CONTRIBUTE.md) [![Tweet](https://img.shields.io/twitter/url?url=https://github.com/lunar-vc/awesome-deep-tech-startup-jobs)](https://twitter.com/share?text=Awesome%20%E2%80%A2%20Deep%20Tech%20API%20Startup%20Jobs%20-%20Work%20in%20the%20next%20big%20thing;%20updated%20regularly%20-%20star%20and%20watch.&url=https://github.com/lunar-vc/awesome-deep-tech-startup-jobs)
 
 # Awesome Deep Tech Startup Jobs
 
