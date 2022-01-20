@@ -1,4 +1,4 @@
-# Awesome Deep Tech Jobs
+# Awesome Deep Tech Startup Jobs
 
 **A curated list of awesome job openings in deep tech startups**
 
