@@ -5,4 +5,6 @@ Please create an issue in case of broken links, expired jobs or typos.
 Requirements:
 - Full Job Description
 - Must be in a Deep Tech Startup (No FAANG, no big coorporate)
-- Does not have to be a technical job but preffered
+- Does not have to be a technical job but preffered 
+- must be in a deep tech first company (ml, ai, dlt, reserach heavy computer science challenges)
+- must NOT be in defence, autonomous weapons, adult entertainment
