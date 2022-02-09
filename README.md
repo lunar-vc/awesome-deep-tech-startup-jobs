@@ -2,6 +2,8 @@
 
 # Awesome Deep Tech Startup Jobs
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 **A curated list of awesome job openings in deep tech startups**
 
 This list is by no means complete. If you think a job should be added please make a PR.
